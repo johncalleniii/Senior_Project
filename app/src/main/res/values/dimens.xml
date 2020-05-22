@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="login_screen_text">17sp</dimen>
+    <dimen name="button_text_size">17sp</dimen>
+    <dimen name="button_minimum_width">200dp</dimen>
+    <dimen name="button_minimum_width_registration1">175dp</dimen>
+    <dimen name="registration2_btns_margin">35dp</dimen>
+    <dimen name="registration2_card_radius">8dp</dimen>
+    <dimen name="cardview_caption_size">22sp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="appbar_padding">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+</resources>

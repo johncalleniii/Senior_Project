@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_title">Fitness Fiend</string>
+    <string name="app_logo_description">Fitness Fiend Logo</string>
+    <string name="register_btn_text">Register</string>
+    <string name="submit_btn_text">Submit</string>
+    <string name="copyright_2020_text">Copyright -</string>
+    <string name="password_label_text">Password:</string>
+    <string name="username_label_text">Email:</string>
+    <string name="login_screen_error_msg">"Username and/or password not filled in."</string>
+    <string name="login_screen_error_msg_authFailed">"Username and/or password is not correct."</string>
+    <string name="register_screen_error_msg">"One or more fields was not supplied."</string>
+    <string name="register_screen_error_msg_authFailed">"Failed to create new user."</string>
+    <string name="register2_screen_error_msg_authFailed">"Something went wrong with the authorization."</string>
+
+    <!-- Activities Strings-->
+    <string name="title_activity_registration_1">Registration_1</string>
+    <string name="app_name">FitnessFiend</string>
+    <string name="next_btn_text">Next</string>
+    <string name="cancel_btn_text">Cancel</string>
+    <string name="first_name_label">First Name</string>
+    <string name="last_name_label">Last Name</string>
+    <string name="height_label">Height (in inches)</string>
+    <string name="weight_label">Weight (in pounds)</string>
+    <string name="fitness_cardview_lbl_text">Fitness</string>
+    <string name="macros_cardview_lbl_text">Macros</string>
+    <string name="gym_maps_cardview_lbl_text">Gym Maps</string>
+    <string name="recipes_cardview_lbl_text">Recipes</string>
+    <string name="reminders_cardview_lbl_text">Reminders</string>
+
+    <!-- Recipe Activity Strings -->
+    <string name="title_activity_recipes">recipes</string>
+    <string name="tab_text_1">Search</string>
+    <string name="tab_text_2">Liked</string>
+    <string name="tab_text_3">History</string>
+    <string name="tvIngredients">Ingredients:</string>
+    <string name="tvNutrients">Nutrients:</string>
+    <string name="TvLink">Click here for full recipe:</string>
+    <string name="RecipeModuleTitle">RecipeFinder</string>
+    <string name="cbLiked">Like This Recipe</string>
+    <string name="tvLiked">Liked:</string>
+    <string name="btnLiked">Search</string>
+    <string name="tvHistory">History:</string>
+    <string name="btnHistory">Search</string>
+    <string name="btnClear">Clear</string>
+</resources>
